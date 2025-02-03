@@ -11,7 +11,6 @@ METHODOLOGY<br>
   - Outliers in Total Greenhouse gas emissions using the IQR method.<br>
 </div>
 <div>
-   
 2. Regex in Data Cleaning and Extraction <br>
 
   - Extracting numeric values from text-based columns.<br>
